@@ -1,0 +1,7 @@
+elasticsearch>=5.0.0,<6.0.0
+pyquery>=1.2.0,<2.0.0
+google-cloud-storage>=1.0.0
+urllib3
+Flask
+
+
